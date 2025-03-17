@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "821409419194",
+    "project_id": "rma-lv-acc3d",
+    "storage_bucket": "rma-lv-acc3d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821409419194:android:8931d29973923af74a5783",
+        "android_client_info": {
+          "package_name": "com.example.lv2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkxyhOzW0K0y7AtUGm6t7dzpHMCQXm5BM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

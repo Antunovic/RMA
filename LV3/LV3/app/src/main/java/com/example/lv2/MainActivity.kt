@@ -187,13 +187,3 @@ fun HomeScreen() {
     }
 }
 
-@Composable
-fun ModifierExample() {
-    Text(
-        text = "Primjer modifikatora",
-        modifier = Modifier
-            .fillMaxSize()
-            .padding(16.dp)
-            .background(Color.LightGray)
-    )
-}

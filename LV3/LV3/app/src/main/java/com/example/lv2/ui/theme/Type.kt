@@ -11,13 +11,11 @@ import androidx.compose.ui.unit.sp
 import com.example.lv2.R
 
 
-val CustomFont = FontFamily(
-    Font(R.font.custom_font)
-)
+
 // Set of Material typography styles to start with
 val Typography = Typography(
     bodyLarge = TextStyle(
-        fontFamily = CustomFont,
+        fontFamily = FontFamily.Default,
         fontWeight = FontWeight.Normal,
         fontSize = 16.sp,
         lineHeight = 24.sp,
